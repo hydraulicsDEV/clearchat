@@ -1,0 +1,17 @@
+###############################
+#
+# ChatClear
+# made by Hydraulics Devleopment Team
+# Version - 0.1
+#
+###############################
+
+# ChatClear
+
+# This is the message after the chat was cleared!
+# You can use & color codes
+# Also you can use %player% to get the player's name!
+ChatClearGlobal:
+  - '&7&m--------------------------'
+  - '&c&l Global Chat has been Cleared by &f&l%player%&c&l!'
+  - '&7&m--------------------------'

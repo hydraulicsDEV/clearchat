@@ -1,0 +1,9 @@
+name: ChatClear
+author: Hydraulics Development Team
+version: 0.1
+main: me.hydraulics.chatclear.Main
+commands:
+  ChatClear:
+    aliases: [cc, chatclear]
+    description: Opens ChatClear GUI
+    usage:
